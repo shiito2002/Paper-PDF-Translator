@@ -1,49 +1,21 @@
-論文PDF翻訳 ライセンス
+MIT License
 
 Copyright (c) 2026 shiito
-All rights reserved.
 
-本ソフトウェア（このリポジトリに含まれるプログラム・説明書などのファイル一式）の
-著作権は shiito に帰属します。以下の条件で使用を許可します。
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-■ してよいこと
-  1. 個人・研究室・学校などでの非商用の利用（研究・学習を含む）
-  2. 自分で使うための改変
-  3. このリポジトリの URL を他の人に紹介すること
-     （ソフトが欲しい人には、ファイルを渡すのではなく URL を伝えてください）
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-■ 事前に shiito の許可が必要なこと
-  1. 本ソフトウェアの再配布
-     （改変したものを含む。有償・無償、配布の方法や場所を問いません）
-  2. 商用での利用、または本ソフトウェアを販売・有償サービスに組み込むこと
-
-  ただし、GitHub の利用規約により認められている、GitHub 上での閲覧およびフォークは除きます。
-  フォークしたものを GitHub の外へ再配布することは、上記 1 のとおり許可が必要です。
-
-■ 著作権表示
-  改変した場合も、この著作権表示とライセンスを削除しないでください。
-
-■ 翻訳結果について
-  本ソフトウェアで作成した翻訳 PDF の扱いは本ライセンスの対象外です。
-  元の論文の著作権は、その著作権者に帰属します。
-
-■ 外部のソフトウェア・サービス
-  本ソフトウェアは PyMuPDF、tkinterdnd2、Claude Code、DeepL API などを利用します。
-  これらには、それぞれのライセンスおよび利用規約が適用されます。
-
-■ 無保証
-  本ソフトウェアは「現状のまま」提供され、明示・黙示を問わず一切の保証をしません。
-  本ソフトウェアの利用によって生じたいかなる損害についても、作者は責任を負いません。
-
-許可の申請・お問い合わせは、GitHub（https://github.com/shiito2002）からご連絡ください。
-
-------------------------------------------------------------------------------
-Summary in English (the Japanese text above is authoritative):
-
-- Free to use for personal, academic and other non-commercial purposes,
-  and to modify for your own use.
-- Redistribution (including modified versions) and commercial use require
-  prior permission from shiito. Viewing and forking on GitHub as permitted by
-  GitHub's Terms of Service are allowed.
-- Keep this copyright notice and license.
-- Provided "as is", without warranty of any kind.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
