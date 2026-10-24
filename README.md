@@ -123,6 +123,13 @@ DeepL のキーは、環境変数 `DEEPL_API_KEY` に設定しておくことも
 | `PDFを翻訳.bat` | ドラッグ＆ドロップ用 |
 | `translate_pdf.py` | 翻訳・上書き処理の本体（コマンドラインでも使える） |
 | `requirements.txt` | 必要な Python ライブラリ |
+| `LICENSE` | ライセンス（MIT） |
+
+## ライセンス
+
+[MIT License](LICENSE) です。
+個人・商用を問わず、自由に使用・改変・再配布できます。再配布するときは、著作権表示と LICENSE の全文を含めてください。
+このソフトは無保証です。
 
 ---
 
