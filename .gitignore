@@ -1,0 +1,10 @@
+# 個人設定（DeepL の APIキーが入る）
+論文翻訳_設定.json
+
+# 論文PDFや訳したPDF（著作権のあるファイルを上げないため）
+*.pdf
+*_翻訳キャッシュ.json
+
+# Python
+__pycache__/
+*.pyc
